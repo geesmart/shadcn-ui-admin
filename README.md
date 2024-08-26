@@ -2,7 +2,7 @@
 <div align=center>
 <img alt="shadcn ui admin logo" width="300" src="https://github.com/geesmart/shadcn-ui-admin/blob/main/public/imgs/logo.png?raw=true" />
 
-![version](https://img.shields.io/badge/version-2.0.0-brightgreen.svg)
+![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 </div>
 
