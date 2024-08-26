@@ -1,8 +1,57 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[<img align="center" alt="shadcn ui admin logo" width="300" src="https://github.com/geesmart/shadcn-ui-admin/blob/main/public/imgs/logo.png?raw=true" /> ](https://github.com/geesmart/shadcn-ui-admin)
 
-Currently, two official plugins are available:
+![version](https://img.shields.io/badge/version-2.0.0-brightgreen.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>&nbsp;</p>
+
+
+[<img alt="shadcn ui admin" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
+
+<p>&nbsp;</p>
+
+
+Get started and build your dream web app with Shadcn UI Admin , the most trendiest &
+innovative Open Source Admin Template for shadcn/ui & React!
+
+---
+
+### Introduction
+
+Designed for those who like modern UI elements and beautiful websites. Made of
+hundred of elements, designed blocks and fully coded pages, Horizon UI is ready
+to help you create stunning websites and webapps.
+
+Save hundreds of hours trying to create and develop a dashboard from scratch.
+The fastest, most responsive & trendiest dashboard is here. Seriously.
+
+With Shadcn UI Admin you will find many examples for pages like NFTs Pages,
+Authentication Pages, Profile and so on. Just choose between a Basic Design or a
+cover and you are good to go!
+
+### Quick Start
+
+Install Shadcn UI Admin by running either of the following:
+
+- Install NodeJS LTS from
+  [NodeJs Official Page](https://nodejs.org/en/)
+  (NOTE: Product only works with LTS version)
+
+Clone the repository with the following command:
+
+```bash
+git clone https://github.com/geesmart/shadcn-ui-admin.git
+```
+
+Run in terminal this command:
+
+```bash
+pnpm install
+```
+
+Then run this command to start your local server
+
+```bash
+npm start
+```
