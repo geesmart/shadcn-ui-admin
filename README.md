@@ -6,8 +6,7 @@
 
 <p>&nbsp;</p>
 
-
-[<img alt="shadcn ui admin" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
+[<img alt="shadcn ui admin" src="https://github.com/geesmart/shadcn-ui-admin/blob/main/public/imgs/design/home_b1.png?raw=true" /> ](https://github.com/geesmart/shadcn-ui-admin)
 
 <p>&nbsp;</p>
 
